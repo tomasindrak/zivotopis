@@ -1,0 +1,20 @@
+h1 {text-align: center}
+
+section h3 {
+	text-transform: uppercase;
+	border-bottom: 2px solid;
+	display: inline-block;
+}
+
+table {
+	border: 1px solid;
+	border-collapse: collapse;
+	width: 700px;
+}
+
+td { 
+	border: 1px solid;
+	padding: 5px 
+}
+
+footer p {text-align: right;}
