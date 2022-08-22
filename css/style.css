@@ -22,4 +22,7 @@ td {
 	padding: 5px 
 }
 
-footer p { text-align: right }
+footer p {
+	text-align: right;
+	margin-right: 30%;
+ }
