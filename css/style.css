@@ -1,8 +1,10 @@
 body {
-	margin: 10px auto;
+	margin: 20px auto;
 	max-width: 960px;
-	/* font-family: Verdana, Geneva, Tahoma, sans-serif */
+	font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
+
 
 h1 { margin-left: 20% }
 
@@ -10,7 +12,7 @@ section h3 {
 	text-transform: uppercase;
 	border-bottom: 2px solid;
 	border-top: 2px solid;
-	width: 690px;
+	width: 708px;
 	padding: 2px 6px;
 	background-color: #e1e1e1;
 }
@@ -18,7 +20,7 @@ section h3 {
 table {
 	border: 1px solid;
 	border-collapse: collapse;
-	width: 700px;
+	width: 720px;
 }
 
 td { 
